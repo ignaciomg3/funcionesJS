@@ -10,5 +10,5 @@ function mostrarSaludo(nombre, apellido) {
     // document.getElementById('resultado').innerHTML = saludo;
 }
 
-// Ejemplo de uso de la función
-mostrarSaludo("Juan", "Pérez");
+// Ejemplo de uso de la función modificada
+mostrarSaludo("Igna", "Pérez");
