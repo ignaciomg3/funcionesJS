@@ -4,7 +4,7 @@ function mostrarSaludo(nombre, apellido) {
 
     // Mostrar el saludo por consola o en la página web
     console.log(saludo);
-    console.log("Este es el cambio en el repo local en VSC");
+    console.log("Este es el cambio en el repo remoto de GitHub");
     // Si estás trabajando en un entorno web, puedes mostrarlo en la página
     // descomentando la siguiente línea:
     // document.getElementById('resultado').innerHTML = saludo;
@@ -12,3 +12,4 @@ function mostrarSaludo(nombre, apellido) {
 
 // Ejemplo de uso de la función modificada
 mostrarSaludo("Padrito", "Pérez");
+
