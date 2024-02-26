@@ -11,4 +11,4 @@ function mostrarSaludo(nombre, apellido) {
 }
 
 // Ejemplo de uso de la función modificada
-mostrarSaludo("Ignacio", "Pérez");
+mostrarSaludo("Padrito", "Pérez");
